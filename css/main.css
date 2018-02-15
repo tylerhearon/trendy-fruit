@@ -20,3 +20,31 @@ body {
   margin: 0;
   text-align: center;
 }
+
+.Watermelon {
+  background-color: #e97065;
+}
+
+.WatermelonH2 {
+  font-family: "Rammetto One", cursive;
+}
+
+.Starfruit {
+  background-color: #fbd25e;
+}
+
+.StarfruitH2 {
+  font-family: "Gravitas One", cursive;
+}
+
+.Persimmon {
+  background-color: #e86033;
+}
+
+.PersimmonH2 {
+  font-family: "Comfortaa", cursive;
+}
+
+.paragraph {
+  font-family: "Open Sans", sans-serif;
+}
