@@ -21,28 +21,28 @@ body {
   text-align: center;
 }
 
-.Watermelon {
+.watermelon {
   background-color: #e97065;
 }
 
-.WatermelonH2 {
+.watermelon h2 {
   font-family: "Rammetto One", cursive;
 }
 
-.Starfruit {
+.starfruit {
   background-color: #fbd25e;
 }
 
-.StarfruitH2 {
+.starfruit h2 {
   font-family: "Gravitas One", cursive;
 }
 
-.Persimmon {
+.persimmon {
   background-color: #e86033;
 }
 
-.PersimmonH2 {
-  font-family: "Comfortaa", cursive;
+.persimmon h2 {
+  font-family: Comfortaa, cursive;
 }
 
 .paragraph {
